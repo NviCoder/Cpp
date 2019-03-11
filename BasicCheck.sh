@@ -28,4 +28,5 @@ fi
 
 echo -e "Compilation‬‬\tMemory‬ leaks\tthread race"
 echo -e "$comp\t\t$memleak\t\t$race"
+cd -
 exit $res
