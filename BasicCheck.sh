@@ -22,7 +22,7 @@ then
       res=$(($res+1))
   fi
 else
-  res=$(($res+4))
+  res=$(($res+7))
   comp="FAIL"
 fi
 
